@@ -1,5 +1,5 @@
 # NameInIndiaTeam
-One can use this program to find out whether your name exists in the Indian Cricket Team. The inspiration to create this came from Internet posts claiming that our Prime Minister Mr. Narendra Modi's name is so special that it exists in Team India's World Cup 2019 team.
+One can use this program to find out whether your name exists in the Indian Cricket Team. The inspiration to create this came from Internet posts claiming that our Prime Minister Mr. Narendra Modi's name is so special that it exists in Team India's World Cup 2019 team. After running this program, there is a high probability that your or your friend's name might also be so special. I encourage you to try it out.
 
 In case it's not clear, following is the output of the program on giving "Narendra Modi" as input: 
 
