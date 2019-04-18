@@ -73,8 +73,8 @@ int main(){
 	string name;
 	getline(cin,name);
 	// name=remove_spaces(name);
-	if(name.size()>N)kata();
-	if(name.size()==0)kata();
+// 	if(name.size()>N)kata();
+// 	if(name.size()==0)kata();
 
 	rep(i,0,N){
 		rep(j,0,players[i].size()){
